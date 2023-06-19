@@ -8,7 +8,7 @@
 
 ### Spring Boot
 
-> src/main/java/atl/academy/atl_academy_java_individual_repo
+> src/main/java/atl/academy/atl_academy_individual_repo
 
 ## Contenido
 
