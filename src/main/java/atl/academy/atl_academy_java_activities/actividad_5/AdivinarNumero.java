@@ -1,4 +1,4 @@
-package actividad_5;
+package atl.academy.atl_academy_java_activities.actividad_5;
 
 import java.util.Scanner;
 

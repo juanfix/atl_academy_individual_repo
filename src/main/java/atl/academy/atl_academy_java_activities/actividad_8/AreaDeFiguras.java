@@ -1,4 +1,4 @@
-package actividad_8;
+package atl.academy.atl_academy_java_activities.actividad_8;
 
 public class AreaDeFiguras {
     public static void main(String[] args) {

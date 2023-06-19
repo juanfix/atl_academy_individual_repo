@@ -1,4 +1,4 @@
-package otros;
+package atl.academy.atl_academy_java_activities.otros;
 
 public class CalcularFactorial {
     public static void main(String[] args) {
