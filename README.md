@@ -1,5 +1,15 @@
 # Repositorio individual
 
+## Rutas de los ejercicios
+
+### Java
+
+> src/main/java/atl/academy/atl_academy_java_activities
+
+### Spring Boot
+
+> src/main/java/atl/academy/atl_academy_java_individual_repo
+
 ## Contenido
 
 - **Módulo 1: Introducción al Bootcamp (1 clase)**
