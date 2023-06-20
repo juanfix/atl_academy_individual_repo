@@ -2,11 +2,11 @@
 
 ## Rutas de los ejercicios
 
-### Java
+### Java 20
 
 > src/main/java/atl/academy/atl_academy_java_activities
 
-### Spring Boot
+### Spring Boot 3.1.0
 
 > src/main/java/atl/academy/atl_academy_individual_repo
 

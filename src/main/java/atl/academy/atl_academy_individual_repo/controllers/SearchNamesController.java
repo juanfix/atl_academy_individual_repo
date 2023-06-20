@@ -1,4 +1,4 @@
-package atl.academy.atl_academy_individual_repo;
+package atl.academy.atl_academy_individual_repo.controllers;
 
 import org.springframework.web.bind.annotation.*;
 
