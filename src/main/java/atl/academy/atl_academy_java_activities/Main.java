@@ -7,6 +7,8 @@ public class Main {
     public static void main(String[] args) {
         //System.out.println("Hello World");
 
+
+
         /* Activity 10 */
 
         Person person1 = new Person(123, 321, "Juan Ceballos", LocalDate.of(1991, 02, 15));

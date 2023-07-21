@@ -1,4 +1,4 @@
-package atl.academy.atl_academy_individual_repo.controllers;
+package atl.academy.atl_academy_individual_repo.trivia.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

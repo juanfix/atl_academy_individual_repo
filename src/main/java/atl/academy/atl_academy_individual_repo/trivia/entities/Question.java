@@ -1,4 +1,4 @@
-package atl.academy.atl_academy_individual_repo.entities;
+package atl.academy.atl_academy_individual_repo.trivia.entities;
 
 import java.util.List;
 
