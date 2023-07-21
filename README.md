@@ -4,11 +4,11 @@
 
 ### Java 20
 
-> src/main/java/atl/academy/atl_academy_java_activities
+> [src/main/java/atl/academy/atl_academy_java_activities](https://github.com/juanfix/atl_academy_individual_repo/tree/main/src/main/java/atl/academy/atl_academy_java_activities)
 
 ### Spring Boot 3.1.0
 
-> src/main/java/atl/academy/atl_academy_individual_repo
+> [src/main/java/atl/academy/atl_academy_individual_repo](https://github.com/juanfix/atl_academy_individual_repo/tree/main/src/main/java/atl/academy/atl_academy_individual_repo)
 
 ## Contenido
 
